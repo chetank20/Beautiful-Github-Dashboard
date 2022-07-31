@@ -1,12 +1,22 @@
-## Gihthub API
+# Introduction
+Github Dashboard utilizes various graphs and charts to display your profile neatly in form of a dashboard using Tailwind CSS and Fusion Charts
 
-- [Root Endpoint](https://api.github.com)
-- [Get User](https://api.github.com/users/wesbos)
-- [Repos](https://api.github.com/users/john-smilga/repos?per_page=100)
-- [Followers](https://api.github.com/users/john-smilga/followers)
-- [Rate Limit](https://api.github.com/rate_limit)
+  - Simple and Minimal UI
 
-  For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
+# New Features!
+ 
+  - Beautiful Grid Structure 😀👋
+  - Animations Added
+ 
+ # API Used
+ [Github] - Where the world builds software
+
+# Technologies Used
+
+* [ReactJs] - HTML enhanced for web apps!
+* [node.js] - evented I/O for the backend
+* [TailwindCSS] - A CSS framework
+
 
 ## Fusion Charts
 
